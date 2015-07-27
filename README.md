@@ -1,4 +1,14 @@
 
+This is done wrong and doesn't work.
+
+see
+
+https://github.com/dgleba/toptal-community-allcount
+
+---
+
+
+
 ## allccountjs
 
 2015-07-24 10:52PM -- 7/25 Ver 02
